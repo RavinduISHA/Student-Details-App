@@ -4,6 +4,8 @@ import Navbar from './layout/Navbar';
 import Home from './Pages/Home';
 import { BrowserRouter as Router, Route, Routes} from "react-router-dom";
 import AddUser from './users/AddUser';
+import EditUser from './users/EditUser';
+import ViewUsers from './users/ViewUsers';
 
 // const router = Router([
 //   {
@@ -24,6 +26,8 @@ function App() {
       <Routes>
         <Route exact path='/' element={<Home />} />
         <Route exact path='/add-user' element={<AddUser />} />
+        <Route exact path='/edit-user/:id' element={<EditUser />} />
+        <Route exact path='/view-user/:id' element={<ViewUsers />} />
       </Routes>
       </Router>
     </div>
