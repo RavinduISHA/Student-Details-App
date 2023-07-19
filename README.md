@@ -1,3 +1,7 @@
+![image](https://github.com/RavinduISHA/Student-Details-App/assets/74870496/ade267ee-d8da-482f-a588-eba694b03341)
+![image](https://github.com/RavinduISHA/Student-Details-App/assets/74870496/6f86d8dc-9805-4c39-b216-944f6c705480)
+![image](https://github.com/RavinduISHA/Student-Details-App/assets/74870496/f5bd6370-5df0-431e-a59d-b6e49a995dc5)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
